@@ -1,0 +1,13 @@
+.idea
+.vscode
+__pycache__/
+.ipynb_checkpoints
+budsoutlier.png
+four_cluster_outlier.png
+outlier_keypoints.jpg
+temptacles.png
+tree.png
+voynich_manuscript.pdf
+scanned-jpgs
+scanned-pages
+zalgo.png
