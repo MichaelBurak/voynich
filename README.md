@@ -55,3 +55,5 @@
 # Follow Me On
 
 - [LinkedIn](https://www.linkedin.com/in/michael-burak/) for **pretty pictures**
+
+![Alt Text](https://i.imgur.com/7Afi0ue.png)
